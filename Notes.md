@@ -1,23 +1,33 @@
 AGENDA
 
 1. What is library
-2. what is framework
-3. what is toolkit
-4. what is bootstrap
-5. why is bootstrap useful
+2. What is framework
+3. What is toolkit
+4. What is bootstrap => toolkit
+    classes -> desired style
+5. Why bootstrap
 6. How to use bootstrap
-7. Bootstrap breakpoints
-8. Bootstrap containers
-9. Bootstrap grid system
-10. Bootstrap components
-    a. Bottom
-    b. Bottom group
-    c. Cards
-    d. Dropdowns
-    e. List Group
-    f. Progress bar
-    g. Navbar
-    h. Carousel
+
+7. Bootstrap breakpoints => screen sizes (6) [ex small, small, medium, large, extra large, extra extra large]
+
+8. BS containers =>  padding and alignment
+
+9. Grid system => same as grid layout
+
+
+10. BS Components
+    1. button 
+    2. button group
+    3. cards
+    4. dropdown 
+    5. list group
+    6. progress bar
+    7. nav bar
+    8. carousel
+
+
+
+jamboard link - https://jamboard.google.com/d/1iLRL0pPy3rMIoLFIoGjyZ7NLoKxnlwbeyIOrDGbmuE8/edit?usp=sharing
 
 
 
